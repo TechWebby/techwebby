@@ -22,7 +22,9 @@
 ## 💡 About TechWebby
 
 🚀 **TechWebby** — bu zamonaviy IT jamoa bo‘lib, foydalanuvchilarga veb-texnologiyalar asosida kuchli, tezkor va dizayni mukammal saytlar yaratib beradi.  
-Bizning maqsadimiz — har bir mijoz uchun **raqamli dunyoda mukammal imidj yaratish**.
+Bizning maqsadimiz — yosh dasturchilarga imkon yaratish,
+yangi g‘oyalarni hayotga tatbiq etish
+va kelajakda  **Google, Apple, Amazon kabi gigantlar bilan raqobat qila oladigan global IT kompaniya darajasiga yetish.**.
 
 ---
 
