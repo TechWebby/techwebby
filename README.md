@@ -1,65 +1,110 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TechWebby/techwebby/main/techWebby.png" width="70%" style="border-radius:10px; box-shadow: 0 0 15px rgba(0,0,0,0.3);">
-</p>
-<!-- TechWebby GitHub Profile README -->
-
-
-
----
-
-## 🌟 Biz haqimizda / About Us
-**TechWebby** — bu zamonaviy IT brend bo‘lib, web va dasturiy yechimlar ishlab chiqishga ixtisoslashgan.  
-Bizning maqsad — **Texnologiya orqali dunyoni o'zgartirish** va **O‘zbekiston IT sohasini rivojlantirish**.
-
-> “We turn ideas into powerful digital products.”
-
----
-
-## 💼 Xizmatlar / Services
-- 🌐 Web Development (Frontend & Backend)
-- 🎨 UI/UX Design & Branding
-- 🛒 E-Commerce Solutions
-- ⚙️ API Integration & Automation
-- 🚀 SEO Optimization & Digital Marketing
-
----
-
-## 🧠 Texnologiyalar / Technologies We Use
+<!-- 🌐 TechWebby README -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="<!-- 🌐 TechWebby README -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TechWebby/TechWebby/main/techwebby-banner.png" alt="TechWebby Banner" width="85%" style="border-radius: 20px; box-shadow: 0 0 15px rgba(0,0,0,0.3);" />
 </p>
 
 ---
 
-## 📊 Statistika / GitHub Stats
+<h1 align="center">👋 Welcome to TechWebby</h1>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechWebby&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechWebby&theme=tokyonight" alt="GitHub Streak" height="160px"/>
+  <a href="https://github.com/TechWebby">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=We+Create+Modern+Websites;Building+Beautiful+Digital+Experiences;HTML+%7C+CSS+%7C+JS+%7C+React+%7C+PHP;Innovate.+Design.+Develop." alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-## 🌍 Biz bilan bog‘laning / Connect With Us
+## 💡 About TechWebby
+
+🚀 **TechWebby** — bu zamonaviy IT jamoa bo‘lib, foydalanuvchilarga veb-texnologiyalar asosida kuchli, tezkor va dizayni mukammal saytlar yaratib beradi.  
+Bizning maqsadimiz — har bir mijoz uchun **raqamli dunyoda mukammal imidj yaratish**.
+
+---
+
+## 🛠️ Texnologiyalar / Technologies
+
 <p align="center">
-  <a href="https://t.me/TechWebby"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:info@techwebby.com"><img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/TechWebby"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,php,github,figma,vscode" />
 </p>
 
 ---
 
-## 💬 “Small Team, Big Vision.”
-Biz innovatsiyani yoqtiramiz, jamoamiz kichik, ammo orzularimiz katta.  
-> *We craft digital products that inspire, connect, and grow businesses.*
+## 🌐 Bizning yo‘nalishlar
+
+- 🌍 Web Development (Frontend & Backend)
+- 🎨 UI/UX Dizayn
+- ⚙️ SEO va Optimization
+- 🧠 IT Branding va Strategy
+- 💼 Korporativ va E-commerce saytlar
+
+---
+
+## 📩 Bog‘lanish / Contact Us
+
+📧 Email: **info@techwebby.uz**  
+💬 Telegram: [@techwebby](https://t.me/techwebby)  
+🌐 Website: **soon...**
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"/>
+  <b>“Innovate. Design. Develop.”</b><br>
+  💙 by <a href="https://github.com/TechWebby">TechWebby Team</a>
+</p>
+" alt="TechWebby Banner" width="85%" style="border-radius: 20px; box-shadow: 0 0 15px rgba(0,0,0,0.3);" />
+</p>
+
+---
+
+<h1 align="center">👋 Welcome to TechWebby</h1>
+
+<p align="center">
+  <a href="https://github.com/TechWebby">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=We+Create+Modern+Websites;Building+Beautiful+Digital+Experiences;HTML+%7C+CSS+%7C+JS+%7C+React+%7C+PHP;Innovate.+Design.+Develop." alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+## 💡 About TechWebby
+
+🚀 **TechWebby** — bu zamonaviy IT jamoa bo‘lib, foydalanuvchilarga veb-texnologiyalar asosida kuchli, tezkor va dizayni mukammal saytlar yaratib beradi.  
+Bizning maqsadimiz — har bir mijoz uchun **raqamli dunyoda mukammal imidj yaratish**.
+
+---
+
+## 🛠️ Texnologiyalar / Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,php,github,figma,vscode" />
+</p>
+
+---
+
+## 🌐 Bizning yo‘nalishlar
+
+- 🌍 Web Development (Frontend & Backend)
+- 🎨 UI/UX Dizayn
+- ⚙️ SEO va Optimization
+- 🧠 IT Branding va Strategy
+- 💼 Korporativ va E-commerce saytlar
+
+---
+
+## 📩 Bog‘lanish / Contact Us
+
+📧 Email: **info@techwebby.uz**  
+💬 Telegram: [@techwebby](https://t.me/techwebby)  
+🌐 Website: **soon...**
+
+---
+
+<p align="center">
+  <b>“Innovate. Design. Develop.”</b><br>
+  💙 by <a href="https://github.com/TechWebby">TechWebby Team</a>
 </p>
