@@ -1,6 +1,6 @@
 <!-- TechWebby GitHub Profile README -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=4000&pause=800&color=36BCF7&center=true&vCenter=true&width=1000&lines=👋+Salom%2C+biz+TechWebby!;🚀+Innovatsion+IT+yechimlar+yaratuvchilari;🌐+Building+modern+web+experiences" alt="Typing SVG" />
+
 
 ---
 
