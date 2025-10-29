@@ -55,8 +55,8 @@ va kelajakda  **Google, Apple, Amazon kabi gigantlar bilan raqobat qila oladigan
   <a href="https://github.com/TechWebby" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-TechWebby-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://www.instagram.com/techwebby" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@techwebby-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/tech.webby" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@tech.webby-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/company/techwebby" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-TechWebby-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -64,14 +64,6 @@ va kelajakda  **Google, Apple, Amazon kabi gigantlar bilan raqobat qila oladigan
 </p>
 
 ---
-
-<p align="center">
-  📍 <b>Manzil:</b> Navoiy, O‘zbekiston  
-  <br>🌐 <b>Sayt:</b> <a href="https://www.techwebby.uz" target="_blank">www.techwebby.uz</a>  
-  <br>💼 <b>Brend:</b> Innovate • Design • Develop
-</p>
-
-
 
 📍 **Manzil:** Navoiy, O‘zbekiston  
 🌐 **Sayt:** www.techwebby.uz *(tez orada ishga tushadi)*
