@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TechWebby/TechWebby/main/techwebby.png" alt="TechWebby Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/TechWebby/techwebby/main/techWebby.png" width="100%">
 </p>
 <!-- TechWebby GitHub Profile README -->
 
