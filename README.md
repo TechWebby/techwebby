@@ -1,10 +1,5 @@
 <!-- 🌐 TechWebby README -->
 
-<h1 align="center">✨ Welcome to <span style="color:#00BFFF;">TechWebby</span> 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Innovate.+Design.+Develop.;We+Create+Modern+Websites;HTML+%7C+CSS+%7C+Tailwind+%7C+React+%7C+PHP" alt="Typing SVG" />
-</p>
 
 
 ---
