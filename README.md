@@ -43,17 +43,34 @@ va kelajakda  **Google, Apple, Amazon kabi gigantlar bilan raqobat qila oladigan
 
 ---
 
-## 💬 Aloqa kanallari / Let's Connect!
-
-📨 **Email:** [info@techwebby.uz](mailto:info@techwebby.uz)  
-💻 **GitHub:** [github.com/TechWebby](https://github.com/TechWebby)  
-📱 **Telegram:** [@techwebby](https://t.me/techwebby)  
-📷 **Instagram:** [@techwebby](https://www.instagram.com/techwebby)  
-🔗 **LinkedIn:** [TechWebby](https://www.linkedin.com/company/techwebby)
+## 📩 Bog‘lanish / Contact Us
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Join%20Our%20Community-Join%20Now!-00BFFF?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram" />
+  <a href="mailto:info@techwebby.uz" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://t.me/techwebby" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@techwebby-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://github.com/TechWebby" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-TechWebby-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/techwebby" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@techwebby-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/company/techwebby" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-TechWebby-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
+
+---
+
+<p align="center">
+  📍 <b>Manzil:</b> Navoiy, O‘zbekiston  
+  <br>🌐 <b>Sayt:</b> <a href="https://www.techwebby.uz" target="_blank">www.techwebby.uz</a>  
+  <br>💼 <b>Brend:</b> Innovate • Design • Develop
+</p>
+
 
 
 📍 **Manzil:** Navoiy, O‘zbekiston  
