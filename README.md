@@ -1,7 +1,7 @@
 <!-- 🌐 TechWebby README -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TechWebby/TechWebby/main/techwebby.png" alt="TechWebby Banner" width="85%" style="border-radius: 20px; box-shadow: 0 0 15px rgba(0,0,0,0.3);" />
+  <img src="https://rawgithubusercontent.com/TechWebby/techwebby/main/techWebby.png" alt="TechWebby Banner" width="85%" style="border-radius: 20px; box-shadow: 0 0 15px rgba(0,0,0,0.3);" />
 </p>
 
 ---
