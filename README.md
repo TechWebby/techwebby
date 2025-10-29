@@ -5,8 +5,8 @@
 ---
 
 ## 🌟 Biz haqimizda / About Us
-**TechWebby** — bu zamonaviy IT kompaniya bo‘lib, web va dasturiy yechimlar ishlab chiqishga ixtisoslashgan.  
-Bizning maqsad — **Texnologiya orqali hayotni osonlashtirish** va **O‘zbekiston IT sohasini rivojlantirish**.
+**TechWebby** — bu zamonaviy IT brend bo‘lib, web va dasturiy yechimlar ishlab chiqishga ixtisoslashgan.  
+Bizning maqsad — **Texnologiya orqali dunyoni o'zgartirish** va **O‘zbekiston IT sohasini rivojlantirish**.
 
 > “We turn ideas into powerful digital products.”
 
