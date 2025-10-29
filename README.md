@@ -1,13 +1,27 @@
 <!-- 🌐 TechWebby README -->
-<h1 align="center">
-  🚀 <span style="background: linear-gradient(90deg, #007CF0, #00DFD8); -webkit-background-clip: text; color: transparent;">TechWebby</span>
-</h1>
+```bash
+> Welcome to TECHWEBBY
+> Innovate. Design. Develop.
+> Powered by HTML | CSS | Tailwind | JS | React | PHP
+✅ **Ko‘rinish:** Developer portfoliolarga o‘xshab chiqadi — “tech style”.
 
-<h3 align="center">Innovate • Design • Develop</h3>
+---
+
+## ⚡ **3️⃣ Emoji + Gradient Divider (minimalist, ammo kuchli)**
+```markdown
+<h1 align="center">💡 TechWebby</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=00DFD8&center=true&vCenter=true&width=500&lines=Creative+Digital+Agency;Modern+Websites+%26+Powerful+Brands;HTML+%7C+CSS+%7C+Tailwind+%7C+React+%7C+PHP" alt="Typing SVG" />
+  <b>Innovate • Design • Develop</b><br>
+  <span style="color:#00BFFF;">Building modern web experiences with passion ⚙️</span>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,php" />
+</p>
+
 
 
 
