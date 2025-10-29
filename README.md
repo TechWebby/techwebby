@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TechWebby/TechWebby/main/techwebby.png" alt="TechWebby Banner" width="100%">
+</p>
 <!-- TechWebby GitHub Profile README -->
 
 
