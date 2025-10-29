@@ -1,26 +1,4 @@
 <!-- 🌐 TechWebby README -->
-```bash
-> Welcome to TECHWEBBY
-> Innovate. Design. Develop.
-> Powered by HTML | CSS | Tailwind | JS | React | PHP
-✅ **Ko‘rinish:** Developer portfoliolarga o‘xshab chiqadi — “tech style”.
-
----
-
-## ⚡ **3️⃣ Emoji + Gradient Divider (minimalist, ammo kuchli)**
-```markdown
-<h1 align="center">💡 TechWebby</h1>
-
-<p align="center">
-  <b>Innovate • Design • Develop</b><br>
-  <span style="color:#00BFFF;">Building modern web experiences with passion ⚙️</span>
-</p>
-
----
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,php" />
-</p>
 
 
 
